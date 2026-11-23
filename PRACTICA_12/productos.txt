@@ -1,0 +1,7 @@
+pollo 20
+carne 64
+papa 150
+tomate 3.5
+zanahoria 18
+manzana 1.5
+sandia 7.5

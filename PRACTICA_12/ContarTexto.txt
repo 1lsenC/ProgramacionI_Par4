@@ -1,0 +1,2 @@
+Un archivo de texto es un tipo de archivo que contiene datos en texto plano. 
+Se trata de una secuencia de caracteres, usualmente organizados en líneas. 
